@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou Diego (dgomp). Tudo bem?
 
-<!--
-**dgomp/dgomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Atuação Profissional**
+- **Advogado**, bacharel em direito pela Universidade de Fortaleza (UNIFOR);
+- Aluno de **Sistemas de Informação** pelo Centro Universitário 7 de Setembro (UNI7);
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/dgomp">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgomp&show_icons=true&theme=dracula"/>
+  </div>
+
+##
+
+<div align="center">
+<a href="https://www.linkedin.com/in/jdiegomparente" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
